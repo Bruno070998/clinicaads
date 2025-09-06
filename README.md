@@ -25,7 +25,7 @@ RU8 – Quero gerar relatórios mensais de consultas para análise do desempenho
 RF8 – O sistema deve gerar relatórios mensais de consultas realizadas, separados por médico e convênio.
 
 RU9 – Quero controlar os convênios médicos aceitos para facilitar o faturamento.
-RU9- O sistema deve gerar relatórios de faturamento agrupados por convênio para facilitar a análise financeira.
+RF9- O sistema deve gerar relatórios de faturamento agrupados por convênio para facilitar a análise financeira.
 
 RU10 – Quero receber notificações de consultas agendadas para melhor organização do dia a dia.
 RF10 – O sistema deve enviar notificações automáticas para pacientes e médicos sobre consultas agendadas ou alteradas.
